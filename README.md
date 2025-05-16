@@ -16,3 +16,4 @@ The Productivity and Time Tracker Chrome Extension is a browser-based tool desig
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/d7d25264-3d21-426e-8baa-ec8ca9e7eac1)
